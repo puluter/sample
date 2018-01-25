@@ -8368,6 +8368,14 @@ textarea {
   text-align: center;
 }
 
+#logout {
+  cursor: default;
+}
+
+#logout:hover {
+  background-color: transparent;
+}
+
 /* typography */
 
 h1,
